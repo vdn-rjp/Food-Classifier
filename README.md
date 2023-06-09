@@ -8,7 +8,8 @@ This repository contains code for a food image classification project. The goal 
 
 The dataset used for training, validation, and testing consists of food images. It is divided into three directories: training, validation, and test. Each image is associated with a label indicating the food category.
 
-The dataset is provided in the `food11` directory, which should be placed in the same directory as the code files. Make sure to unzip the dataset before running the code.
+The dataset is provided here : https://www.kaggle.com/datasets/trolukovich/food11-image-dataset
+Make sure to downnload the dataset and upload it on google drive before running the code.
 
 ## Getting Started
 
